@@ -1,0 +1,13 @@
+初始值11
+左边触碰10
+右边触碰01
+同时触碰00
+
+直线向前 left 1700 right 1300
+直线后退 left 1300 right 1700
+
+向左转动 left 1300 right 1300
+向右转动 left 1700 right 1700
+
+轮轴左转 left 1500 right 1300
+轮轴右转 left 1700 right 1500 
